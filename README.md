@@ -4,6 +4,7 @@ I'm a high school student from Slovakia who loves coding and building things fro
 🚀 What I'm working on
 
 🎮 Tic-tac-toe in C++ — a console game I'm building to sharpen my C++ skills
+
 📚 Learning C++ — algorithms, logic, and problem solving
 
 🛠️ My main stack is C++ and my side stack is python, html, css, react, nextjs
