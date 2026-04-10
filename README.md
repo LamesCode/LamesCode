@@ -1,5 +1,4 @@
-Hey, I'm LamesCode 👋
-I'm a high school student from Slovakia who loves coding and building things from scratch.
+Hey, I'm LamesCode and I love coding and building things from scratch.
 
 🚀 What I'm working on
 
