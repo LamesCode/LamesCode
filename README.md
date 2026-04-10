@@ -1,16 +1,17 @@
-## Hi there 👋
+##Hey, I'm LamesCode 👋
+I'm a high school student from Slovakia who loves coding and building things from scratch.
 
-<!--
-**LamesCode/LamesCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I'm working on
 
-Here are some ideas to get you started:
+🎮 Tic-tac-toe in C++ — a console game I'm building to sharpen my C++ skills
+📚 Learning C++ — algorithms, logic, and problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ My main stack is C++ and my side stack is python, html, css, react, nextjs
+
+✨ My hobbies are: mtb, creating things
+
+📬 Contact
+
+✉️ Email: your@email.com (coming soon)
+
+Thanks for stopping by! Feel free to check out my projects. 🙂
