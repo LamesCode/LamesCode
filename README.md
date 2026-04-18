@@ -2,7 +2,7 @@ Hey, I'm LamesCode and I love coding and building things from scratch.
 
 🚀 What I'm working on
 
-🎮 Tic-tac-toe in C++ — a console game I'm building to sharpen my C++ skills
+🎮 Terminal Dungeon Crawler game to sharpen my C++ knowledge
 
 📚 Learning C++ — algorithms, logic, and problem solving
 
